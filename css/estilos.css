@@ -15,3 +15,18 @@ margin:  0 auto;
 #container h1{
     font-size: 20px;
 }
+
+#cabecera{
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    background: #88d;
+    color: white;
+    font-weight: bold;
+    margin: o;
+    padding: 0.5em;
+}
+
+#tagline{
+    font-weight: normal;
+    font-size: 0.8em;
+    margin: 0 0 0 1em;
+}
